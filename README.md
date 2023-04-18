@@ -38,7 +38,7 @@ The project was done with Ocaml.
 🔧 Tecnologias utilizadas:
 ------------------
 
-- C 
+- Ocaml
 
 💬 Fale comigo
 ------------------
