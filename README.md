@@ -4,11 +4,11 @@
 
 
 <p align="center">
-Trabalho em C
+Trabalho em Ocaml
 
 Funcionamento de uma Pila LIFO(Last In First Out) 
     
-Programa em linguagem C padrão, de nome pila.c, que permita efetuar o teste de um programa.
+Programa em linguagem Ocaml padrão, de nome camiao.ml, que permita efetuar o teste de um programa.
 O programa recebe valores inteiros, e permite empilar e desempilar e mostra os valores na ordem que vão ficando:
 </p>
 
@@ -18,16 +18,18 @@ Funcionamento de uma Pila LIFO(Last In First Out)
 <img src="pila.png" alt="page-home">
 ## Sintaxe para compilar:
 
-<pre>gcc pila.c -o pila </pre>
+<pre>ocamlopt camiao.ml -o camiao </pre>
 
 ## Sintaxe para executar:
-<pre>./pila </pre>
+<pre>./camiao </pre>
+
+## Tambem pode executar diretamente: 
+<pre>ocaml camiao.ml</pre>
+
+O projeto foi feito em Ocaml.
 
 
-O projeto foi feito em C.
-
-
-The project was done with C.
+The project was done with Ocaml.
 
 
 <img src="print.png" alt="page-home">
